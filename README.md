@@ -1,0 +1,2 @@
+- 👋 Hi, I’m a Data Engineer looking to grow my portifolio.
+- Let's engage.
